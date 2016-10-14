@@ -1,7 +1,7 @@
 function Postto-Mattermost {
 <#
 .Synopsis
-   Post text to a Mattermost Channel
+   Post text to a Mattermost Channel via Webhooks
 .DESCRIPTION
    Long description
 .EXAMPLE
